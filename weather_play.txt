@@ -1,0 +1,15 @@
+Day,Outlook,Humidity,Wind,Play
+1,Sunny,High,Weak,0
+2,Sunny,High,Strong,0
+3,Overcast,High,Weak,1
+4,Rain,High,Weak,1
+5,Rain,Normal,Weak,1
+6,Rain,Normal,Strong,0
+7,Overcast,Normal,Strong,1
+8,Sunny,High,Weak,0
+9,Sunny,Normal,Weak,1
+10,Rain,Normal,Weak,1
+11,Sunny,Normal,Strong,1
+12,Overcast,High,Strong,1
+13,Overcast,Normal,Weak,1
+14,Rain,High,Strong,0
